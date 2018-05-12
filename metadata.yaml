@@ -1,0 +1,27 @@
+_repo: Corse-de-Leon-Volume-I--of-2-or-The-Brigand--a-Romance_36041
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, G. P. R. (George Payne Rainsford)
+    alias: James, George Payne Rainsford
+    deathdate: 1860
+    gutenberg_agent_id: '1301'
+    url: http://www.gutenberg.org/2009/agents/1301
+    wikipedia: http://en.wikipedia.org/wiki/George_Payne_Rainsford_James
+description: ''
+gutenberg_issued: '2011-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Henry II, 1547-1559 -- Fiction'
+- !lcc 'PR'
+title: 'Corse de Leon; or, The Brigand: A Romance. Volume 1 (of 2)'
+url: http://www.gutenberg.org/ebooks/36041
